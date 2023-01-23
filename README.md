@@ -1,4 +1,4 @@
-# Project-0: Getting Started
+# Project 0: Getting Started
 The purpose of this exercise is to get you familiar with tools and basic knowledge for working with video files. After completing this exercise, you should create basic software for processing videos and visual debugging your code.
 
 NOTE: Submit your program source code on GitHub Classroom. However, you DO NOT need to submit a report for this project on Gradescope.
